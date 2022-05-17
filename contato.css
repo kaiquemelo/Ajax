@@ -1,0 +1,15 @@
+body{
+    background: -webkit-linear-gradient(rgb(35, 182, 240), grey ,rgb(35, 182, 240));
+    height: 800px;
+}
+
+
+h1{
+    font-family:cursive;
+    color: white;
+    text-align: center;
+}
+
+fieldset{
+    font-family: cursive;
+}
